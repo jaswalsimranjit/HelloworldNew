@@ -12,5 +12,10 @@ namespace HelloworldNew
         {
             Console.WriteLine("Hello world ji");
         }
+        public void getsomething()
+        {
+            Console.WriteLine("Hello world ji");
+
+        }
     }
 }
